@@ -1478,3 +1478,27 @@ select {
 .text-highlight {
   text-transform: initial !important;
 }
+
+.contantimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 100%;
+}
+
+.contantimagefifty{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 50%;
+}
+
+.contantimageseventy{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 70%;
+}
