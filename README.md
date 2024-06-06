@@ -21,3 +21,4 @@ How to use - https://dev-sumino.github.io/IsSave-Story-Video-Downloader/how-to-u
 
 Frequently Asked Questions - https://dev-sumino.github.io/IsSave-Story-Video-Downloader/quesation-answers.html
 
+More Information About IsSave(permission or SDKs) - https://dev-sumino.github.io/IsSave-Story-Video-Downloader/more-information-about-app.html
