@@ -4,7 +4,7 @@
 ### IsSave- Instagram Downloader 
 
 <a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
-<a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+<a href="https://play.google.com/store/search?q=issave&c=apps"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
 
 All Post types are Supported. You can view and save many things such as IGTV, Reels, Story, Highlight, Photos,Videos.
 
